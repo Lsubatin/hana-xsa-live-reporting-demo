@@ -1,2 +1,2 @@
 # hana-xsa-live-reporting-demo
-Demo copy of the live reporting repository
+This repository is provided with no warrant and is a slightly modified copy of https://github.com/SAP-samples/hana-xsa-live-reporting 
