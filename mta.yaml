@@ -13,8 +13,8 @@ resources:
   - name: hdi_db
     parameters:
       config:
-        schema: RUN
-      service-name: hana-run
+        schema: LIVE
+      service-name: hana-live
     properties:
       hdi-container-name: '${service-name}'
     type: com.sap.xs.hdi-container
